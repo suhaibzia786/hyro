@@ -501,7 +501,7 @@ input[type="checkbox"] {
 .dropdown.show > a,
 .nav-link:hover,
 .nav-link.active {
-    color: #ff6e84;
+    color: #4548c4;
     text-decoration: none;
 }
 
@@ -516,7 +516,7 @@ input[type="checkbox"] {
     font-size: 1rem;
     color: #212529;
     list-style: none;
-    background-color: #f1f9fc;
+    background-color: #ffffff;
     background-clip: padding-box;
     border-radius: 0.25rem;
     animation: fadeDropdown 0.2s; /* required for the fade animation */
@@ -557,7 +557,7 @@ input[type="checkbox"] {
 .dropdown-item:focus {
     text-decoration: none;
     background-color: #f1f9fc;
-    color: #ff6e84;
+    color: #4548c4;
 }
 
 .dropdown-divider {
@@ -573,7 +573,7 @@ input[type="checkbox"] {
 /*    Header     */
 /*****************/
 .header {
-    background: linear-gradient(rgba(197, 234, 249, 1), rgba(255, 255, 255, 1));
+    /*background: linear-gradient(rgba(197, 234, 249, 1), rgba(255, 255, 255, 1));*/
 }
 
 /********************/
@@ -1020,7 +1020,7 @@ a:hover.back-to-top {
     .navbar.top-nav-collapse {
         padding-top: 0.5rem;
         padding-bottom: 0.5rem;
-        background-color: #f1f9fc;
+        background-color: #ffffff;
     }
 
     .offcanvas-collapse {
